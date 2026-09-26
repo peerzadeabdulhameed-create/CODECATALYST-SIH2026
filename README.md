@@ -23,12 +23,27 @@ safety procedures.
   Item                       Details
   -------------------------- -----------------------------------------------
   **Team**                   CODECATALYST
+
+
   **Hackathon**              Smart India Hackathon 2026
+
+
+
   **Problem Statement ID**   SIH26027
+
+
+
   **Problem Statement**      Intelligent Railway Block Planning System
+
+
   **Theme**                  Railway Planning System
+
+
   **Category**               Software
+
+
   **Primary Focus**          Maintenance Coordination & Block Optimization
+
 
 ------------------------------------------------------------------------
 
@@ -384,7 +399,7 @@ Planner Decision
 
 ### 🔗 Live Working Prototype
 
-**\[INSERT WORKING PROTOTYPE LINK HERE\]**
+**\[[LINK HERE](https://linktr.ee/CODECATALYST.SIH2026)\]**
 
 ------------------------------------------------------------------------
 
@@ -675,7 +690,7 @@ and its planning workflow.
 
 ### ▶️ YouTube Explanation
 
-**\[INSERT YOUTUBE VIDEO LINK HERE\]**
+**\[[LINK HERE](https://linktr.ee/CODECATALYST.SIH2026)\]**
 
 The video is intended to help evaluators understand the project beyond
 the six-slide presentation.
@@ -703,48 +718,7 @@ including:
 
 ### 🔗 Detailed Presentation
 
-**\[INSERT DETAILED PROJECT PRESENTATION LINK HERE\]**
-
-------------------------------------------------------------------------
-
-# 💻 GitHub Repository
-
-This repository contains the project's implementation, documentation,
-assets, and supporting material.
-
-### 🔗 Repository
-
-**\[INSERT GITHUB REPOSITORY LINK HERE\]**
-
-Suggested repository organization:
-
-``` text
-CODECATALYST/
-│
-├── README.md
-│
-├── frontend/
-│   └── ...
-│
-├── backend/
-│   └── ...
-│
-├── assets/
-│   ├── images/
-│   ├── diagrams/
-│   └── icons/
-│
-├── documentation/
-│   ├── architecture/
-│   ├── research/
-│   └── presentation/
-│
-├── screenshots/
-│
-└── presentation/
-```
-
-Adjust this structure according to the actual implementation.
+**\[[DETAILED PROJECT PRESENTATION LINK HERE](https://linktr.ee/CODECATALYST.SIH2026)\]**
 
 ------------------------------------------------------------------------
 
@@ -755,7 +729,7 @@ project resource.
 
 ### Project Resource Hub
 
-**\[INSERT LINKTREE LINK HERE\]**
+**\[[LINK HERE](https://linktr.ee/CODECATALYST.SIH2026)\]**
 
 The resource hub should provide access to:
 
@@ -943,11 +917,7 @@ Supporting project resources will be linked here as they are finalized.
 
   Resource                           Link
   ---------------------------------- ---------------------
-  🌐 Working Prototype               **\[INSERT LINK\]**
-  🎥 YouTube Project Video           **\[INSERT LINK\]**
-  📑 Detailed Project Presentation   **\[INSERT LINK\]**
-  💻 GitHub Repository               **\[INSERT LINK\]**
-  🔗 Linktree / Resource Hub         **\[INSERT LINK\]**
+  🔗 Linktree / Resource Hub         **\[[LINK HERE](https://linktr.ee/CODECATALYST.SIH2026)\]**
 
 ------------------------------------------------------------------------
 
