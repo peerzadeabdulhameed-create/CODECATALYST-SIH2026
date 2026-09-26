@@ -745,30 +745,6 @@ CODECATALYST
       └── 📑 Detailed Project Presentation
 ```
 
-------------------------------------------------------------------------
-
-# 📱 QR Code Access
-
-The presentation QR code can point to the project resource hub.
-
-Recommended evaluator journey:
-
-``` text
-                 QR CODE
-                    ↓
-           PROJECT RESOURCE HUB
-                    ↓
-       ┌────────────┼────────────┐
-       ↓            ↓            ↓
-     VIDEO       PROTOTYPE     GITHUB
-       │            │            │
-       └────────────┼────────────┘
-                    ↓
-          DETAILED PRESENTATION
-```
-
-This allows an evaluator to choose between a quick explanation, live
-demonstration, technical source, or detailed project documentation.
 
 ------------------------------------------------------------------------
 
